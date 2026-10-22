@@ -1,0 +1,12 @@
+target/
+.idea/
+.vscode/
+*.iml
+.env
+workspace/projects/
+workspace/output/
+workspace/tmp/
+*.mp4
+*.wav
+*.mp3
+!.gitkeep
